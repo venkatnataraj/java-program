@@ -1,7 +1,5 @@
 // Reverse a String 
 
-
-
 package practice;
 public class string_reverse {
     
